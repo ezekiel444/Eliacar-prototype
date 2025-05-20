@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
-// https://vitejs.dev/config/
+// Replace 'Eliacar-prototype' with your actual repository name
 export default defineConfig({
   base: '/Eliacar-prototype/',
   plugins: [react()],
